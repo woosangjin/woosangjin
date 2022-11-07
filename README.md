@@ -3,6 +3,10 @@
 # ■ 프로필
 
 ## ○ 학력
+
+### - 진천고등학교 졸업 (2009.03. ~ 2012.02)
+
+
 <!--
 **woosangjin/woosangjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
