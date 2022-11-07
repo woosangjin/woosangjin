@@ -17,7 +17,9 @@
  - 정보처리산업기사 - 한국산업인력공단 (2015. 3. 27)
  - 전자계산기조직응용기사 - 한국산업인력공단 (2017.9.7)
  - 정보처리기사 - 한국산업인력공단 (2019. 5. 17)
+ - 전기공사기술자 경력수첩 초급 - 한국전기공사협회 (2020. 08. 31)
  - Toeic Total 600 (2022. 6. 26)
+ - 
 <!--
 **woosangjin/woosangjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
