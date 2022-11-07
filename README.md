@@ -22,11 +22,12 @@
 
 # ■ AI-Ex-30 포트폴리오
  - 딥러닝 실제 (7)
- - 머신러닝 프로그래밍 (3)
+ - 머신러닝 프로그래밍 (5)
  - 산업인공지능 개론 (3)
  - 어프렌티스 프로젝트 (3)
  - 지능로봇 실제 (5)
  - 지능화 캡스톤 디자인(3)
+ - 지능화 파일럿 프로젝트(1)
 
 <!--
 **woosangjin/woosangjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
