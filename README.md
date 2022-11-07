@@ -27,7 +27,7 @@
  - 어프렌티스 프로젝트 (3)
  - 지능로봇 실제 (5)
  - 지능화 캡스톤 디자인(3)
- - 지능화 파일럿 프로젝트(1)
+ - 지능화 파일럿 프로젝트(2)
 
 <!--
 **woosangjin/woosangjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
