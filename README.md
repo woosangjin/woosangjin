@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 # ■ 프로필
+
+## ○ 학력
 <!--
 **woosangjin/woosangjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
