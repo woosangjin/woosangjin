@@ -5,8 +5,11 @@
 ## ○ 학력
 
  - 진천고등학교 졸업 (2009.03. ~ 2012.02)
- - 군산대학교 제어로봇공학과 졸업 (2012.03. ~ 2018. 02)
+ - 군산대학교 제어로봇공학과 졸업 (2012.03. ~ 2018.02)
+ - 충북대학교 산업인공지능학과 (2021.03 ~)
 
+## ○ 경력
+ - 성창주식회사 부설연구소 H/W팀 (2017.12.01 ~ 재직중)
 
 <!--
 **woosangjin/woosangjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
