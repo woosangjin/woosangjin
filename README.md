@@ -20,7 +20,7 @@
  - 전기공사기술자 경력수첩 초급 - 한국전기공사협회 (2020. 08. 31)
  - Toeic Total 600 (2022. 6. 26)
 
-# ■ AI-Ex-30 포트폴리오(https://github.com/woosangjin/CBNU)
+# [■ AI-Ex-30 포트폴리오](https://github.com/woosangjin/CBNU)
  - 딥러닝 실제 (7)
  - 머신러닝 프로그래밍 (7)
  - 산업인공지능 개론 (3)
