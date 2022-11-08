@@ -34,7 +34,7 @@
  - [머신러닝 프로그래밍](https://github.com/woosangjin/CBNU/tree/main/2021%EB%85%84%20%EC%84%9D%EC%82%AC%201%ED%95%99%EA%B8%B0/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
    - 머신러닝 기술의 주요개념 학습 특히 퍼셉트론, 오차역전파법등의 기초개념이해를 위해 손으로 직접계산, SW를 이용한 실습
  - [딥러닝 실제](https://github.com/woosangjin/CBNU/tree/main/2021%EB%85%84%20%EC%84%9D%EC%82%AC%201%ED%95%99%EA%B8%B0/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%8B%A4%EC%A0%9C)
-   - 신경회로망 및 딥러닝의 개념 학습, 파이썬 SW를 활용하여 텐세플로우 프레임워크 실습
+   - 신경회로망 및 딥러닝의 개념 학습, 파이썬 SW를 활용하여 텐서플로우 프레임워크 실습
  - [어프렌티스 프로젝트](https://github.com/woosangjin/CBNU/tree/main/2021%EB%85%84%20%EC%84%9D%EC%82%AC%202%ED%95%99%EA%B8%B0/%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
    - 인공지능의 현 기술현황 전망에 관한 전체적인 개념 학습
  - [지능로봇 실제](https://github.com/woosangjin/CBNU/tree/main/2021%EB%85%84%20%EC%84%9D%EC%82%AC%202%ED%95%99%EA%B8%B0/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%20%EC%8B%A4%EC%A0%9C)
