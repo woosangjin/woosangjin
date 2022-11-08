@@ -20,7 +20,7 @@
  - 전기공사기술자 경력수첩 초급 - 한국전기공사협회 (2020. 08. 31)
  - Toeic Total 600 (2022. 6. 26)
 
-# [■ AI-Ex-30 포트폴리오](https://github.com/woosangjin/CBNU)
+# ■ [AI-Ex-30 포트폴리오](https://github.com/woosangjin/CBNU)
  - 딥러닝 실제 (7)
  - 머신러닝 프로그래밍 (7)
  - 산업인공지능 개론 (3)
@@ -45,7 +45,8 @@
    - 인공지능지식을 활용하여 프로젝트 수행
      - 웨이퍼 불량 식별을 위한 심층 컨볼루션 신경망 설계 (CNN)
      - 안전모 검출 (YOLO)
-
+ - [지능화 파일럿 프로젝트] (https://github.com/woosangjin/CBNU/tree/main/2022%EB%85%84%20%EC%84%9D%EC%82%AC%204%ED%95%99%EA%B8%B0/%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+   - 프로젝트를 진행하며 프로젝트 보고서 작성
 
 ## ○ 군산대학교/학부/제어로봇공학과 (전공기준)
  - 제어로봇공학개론
