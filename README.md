@@ -27,7 +27,7 @@
  - 지능화 캡스톤 디자인(3)
  - 지능화 파일럿 프로젝트(2)
 
-# ■ [Mini-Project](https://github.com/woosangjin/Mini-Project)
+# ■ [Mini-Project](5)(https://github.com/woosangjin/Mini-Project)
  - 모든방향으로 기동 가능한 RC카
  - 아두이노를 이용한 DC 전압측정기
  - 스마트폰으로 제어하는 RC탱크
