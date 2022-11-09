@@ -27,6 +27,13 @@
  - 지능화 캡스톤 디자인(3)
  - 지능화 파일럿 프로젝트(2)
 
+# ■ [Mini-Project](https://github.com/woosangjin/Mini-Project)
+ - 모든방향으로 기동 가능한 RC카
+ - 아두이노를 이용한 DC 전압측정기
+ - 스마트폰으로 제어하는 RC탱크
+ - PID DC전압제어
+ - TTS Programming
+
 # ■ 이수교과
 ## ○ 충북대학교/대학원/산업인공지능학과
  - [산업인공지능 개론](https://github.com/woosangjin/CBNU/tree/main/2021%EB%85%84%20%EC%84%9D%EC%82%AC%201%ED%95%99%EA%B8%B0/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B0%9C%EB%A1%A0)
