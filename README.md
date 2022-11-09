@@ -33,7 +33,7 @@
  - 스마트폰으로 제어하는 RC탱크
  - PID DC전압제어
  - TTS Programming
- - 보드 GO
+ - [보드 GO](https://www.youtube.com/watch?v=NZgVnm5m07w)
 
 # ■ 이수교과
 ## ○ 충북대학교/대학원/산업인공지능학과
